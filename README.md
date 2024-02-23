@@ -9,7 +9,11 @@ Show me the money when it comes to ussig the differnet part of github
 
 ## Purpose
 
+This is the purpose descropjitn
+
 ## Deployment
+
+morwertwetrtwe
 
 ## How To Contribute
 
