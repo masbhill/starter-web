@@ -17,6 +17,7 @@ morwertwetrtwe
 
 ## How To Contribute
 
+USe FORK and merge when colaborating please
 
 ## Copyright
 
