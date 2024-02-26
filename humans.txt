@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mason Hill -- Admin -- NoTwitTer
 
 # THANKS
 
