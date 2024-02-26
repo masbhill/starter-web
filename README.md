@@ -18,3 +18,7 @@ morwertwetrtwe
 ## How To Contribute
 
 
+## Copyright
+
+2024 notice of CR 
+
